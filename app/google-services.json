@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123143367302",
+    "project_id": "audioshopdamirm",
+    "storage_bucket": "audioshopdamirm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123143367302:android:b5cfcbfb1e308b5348bf07",
+        "android_client_info": {
+          "package_name": "com.damir.rma2_mateljic_damir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_QmUFWZ2V_y78VK2VwedFmH1VsUYuFyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
